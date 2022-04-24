@@ -1,3 +1,8 @@
+This is a React App that shows the current weather for a particular city.
+This app makes calls to the weather api: http://api.openweathermap.org/
+
+![image](https://user-images.githubusercontent.com/3343155/164950900-727c1b05-7a96-466a-82f9-0f67969468c4.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
